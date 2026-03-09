@@ -43,5 +43,4 @@ When the auditor processes the architecture diagram, it identifies vulnerabiliti
 ![View the Full Security Audit & Terraform Report (example)](examples/Architecture_report.md)
 
 ---
-
-> 💡 **DISCLAIMER**: This repository is a proof-of-concept built to demonstrate the integration of Multimodal AI (Gemini 2.5 Flash) into DevSecOps pipelines. It is intended for educational purposes only.
+*💡 **DISCLAIMER**: This repository is a proof-of-concept built to demonstrate the integration of Multimodal AI (Gemini 2.5 Flash) into DevSecOps pipelines. It is intended for educational purposes only.*

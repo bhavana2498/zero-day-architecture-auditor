@@ -27,7 +27,7 @@ This tool shifts security completely left. By leveraging **Multimodal AI (Gemini
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YourUsername/zero-day-architecture-auditor.git](https://github.com/YourUsername/zero-day-architecture-auditor.git)
+git clone [https://github.com/bhavana2498/zero-day-architecture-auditor.git](https://github.com/YourUsername/zero-day-architecture-auditor.git)
 cd zero-day-architecture-auditor
 
 > 💡 **Disclaimer**: This repository is a proof-of-concept built to demonstrate the integration of Multimodal AI (Gemini 2.5 Flash) into DevSecOps pipelines. It is intended for educational purposes only.

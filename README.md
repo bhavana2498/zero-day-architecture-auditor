@@ -27,7 +27,9 @@ This tool shifts security completely left. By leveraging **Multimodal AI (Gemini
 
 ### Clone the Repository
 **Bash:**
+
 git clone [https://github.com/bhavana2498/zero-day-architecture-auditor.git](https://github.com/YourUsername/zero-day-architecture-auditor.git)
+
 cd zero-day-architecture-auditor 
 
 ---

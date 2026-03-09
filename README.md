@@ -26,21 +26,23 @@ This tool shifts security completely left. By leveraging **Multimodal AI (Gemini
 ## ⚙️ Installation & Usage
 
 ### Clone the Repository
-```bash
+bash
 git clone [https://github.com/bhavana2498/zero-day-architecture-auditor.git](https://github.com/YourUsername/zero-day-architecture-auditor.git)
-cd zero-day-architecture-auditor
+cd zero-day-architecture-auditor 
+
+---
 
 ## 📊 Demo
 To see the Auditor in action, you can use the sample diagram provided in the `/examples` folder.
 
 **Input Diagram:**
-![Sample Architecture](examples/Architecture.png)
+[Sample Architecture](examples/Architecture.png)
 
 ### 📊 Results
 When the auditor processes the architecture diagram, it identifies vulnerabilities and generates a remediation plan.
 
 **Output Report:**
-![View the Full Security Audit & Terraform Report (example)](examples/Architecture_report.md)
+[View the Full Security Audit & Terraform Report (example)](examples/Architecture_report.md)
 
 ---
 *💡 **DISCLAIMER**: This repository is a proof-of-concept built to demonstrate the integration of Multimodal AI (Gemini 2.5 Flash) into DevSecOps pipelines. It is intended for educational purposes only.*
